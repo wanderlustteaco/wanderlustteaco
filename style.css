@@ -1,0 +1,31 @@
+@charset "utf-8";
+body {
+	
+	
+}
+
+
+
+.box{
+	transform: scale(.5);
+	
+}
+
+.logo { 
+	padding-top: 100px;}
+	
+	@media only screen and (max-width:700px) {	
+		
+		.heading{ 
+	margin-left: 0px;
+	background: #A55F83;
+			}
+	
+    .logo {
+		transform: scale(.5);
+	   
+		}
+		
+	
+}
+
